@@ -28,3 +28,7 @@ export const validateUrl = async (url: string): Promise<boolean> => {
     return false;
   }
 };
+
+export const validatePhoneS = () => {
+  return null;
+};
